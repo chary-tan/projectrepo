@@ -1,1 +1,1 @@
-print("This is by main.")
+print("This is by main, main is always right.")
